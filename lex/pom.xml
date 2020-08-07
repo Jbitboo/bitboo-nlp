@@ -12,9 +12,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-
     <groupId>tech.bitboo.nlp</groupId>
     <artifactId>bitboo-nlp-lex</artifactId>
     <version>1.0-SNAPSHOT</version>
-
 </project>
